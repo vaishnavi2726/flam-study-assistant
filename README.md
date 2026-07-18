@@ -1,1 +1,0 @@
-# flam-study-assistant
